@@ -14,8 +14,8 @@ menu = """
 [ 4 ] = Sair
 ===================> """
 
-saldo = 0
-LIMITE_SAQUES = 0
+saldo = 1500
+LIMITE_SAQUES = 500
 saque_diario = 0
 extrato = ''
 
