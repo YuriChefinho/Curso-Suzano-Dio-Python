@@ -41,3 +41,11 @@ while True:
         
 
             #print(f'Deposito com SUCESSO! \nSEU SALDO É {deposito}')
+
+    elif opção == 3:
+        print(extrato)
+
+
+    elif opção == 4:
+        print ("Sair")
+        break
