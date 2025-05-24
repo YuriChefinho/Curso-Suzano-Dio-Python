@@ -1,1 +1,1 @@
-print(float("a"))
+print("Hello world")
